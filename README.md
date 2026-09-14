@@ -186,17 +186,38 @@ This project uses a Vite environment variable, which means it is exposed in the 
 
 ## Screenshots
 
-Placeholder screenshots for future documentation:
+### Landing Page
 
-- Dashboard Overview: [Add screenshot]
-- Customer Segmentation View: [Add screenshot]
-- Campaign Builder / Preview: [Add screenshot]
-- Insights & Opportunity Dashboard: [Add screenshot]
+![MarketMind AI landing page](screenshots/landing_page.png)
+
+### Dashboard Overview
+
+![MarketMind AI dashboard overview](screenshots/overview.png)
+
+### Customer View
+
+![MarketMind AI customer view](screenshots/customer.png)
+
+### Insights
+
+![MarketMind AI insights dashboard](screenshots/ai%20insights.png)
+
+### Campaigns
+
+![MarketMind AI campaigns view](screenshots/campaigns.png)
 
 ## Demo
 
-- Live Demo: [Coming Soon]
-- Demo Video: [Coming Soon]
+Live Demo:
+https://marketmind-ai-six-green.vercel.app/
+
+Demo Video:
+[Coming Soon — to be added before final submission]
+
+## Team Details
+
+Team Name: Code Green
+Team Leader: Sinchana Poojary
 
 ## Future Improvements
 
